@@ -17,7 +17,7 @@ This project is designed to handle and process data for the Seqana Data Engineer
 
 Before git clone or running the script, ensure you have the following:
 
-1. **Python**: Ensure Python is installed and added to your system's PATH.
+1. **Python**: Ensure Python 3.X is installed and added to your system's PATH.
     ####
 2. **Virtual Environment**: Python's virtual environment tool should be available. This can be installed via:
 
